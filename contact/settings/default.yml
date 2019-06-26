@@ -1,0 +1,4 @@
+plugins:
+  contact:
+    module:
+      algonaut_contact
